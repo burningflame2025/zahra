@@ -1,4 +1,4 @@
-# Task Manager
+# Task Manager 
 A simple task management application.
 ## Project Status
-The Task Manager project is actively developed for report feature.
+The Task Manager is actively developed by the engineering team.
